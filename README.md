@@ -11,7 +11,7 @@
 1. **Truffle v5.X.X** - A development framework for Ethereum. 
 ```bash
 # Unsinstall any previous version
-npm uninstall -g truffle
+npm install -g truffle
 ```
 
 
